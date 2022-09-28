@@ -1,0 +1,41 @@
+
+#container {
+  text-align: center;
+  background-color: black;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+#container strong {
+  font-size: 20px;
+  line-height: 26px;
+}
+
+h3 {
+  font-size: 23px;
+  line-height: 22px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #ffffff;
+  margin:0;
+  padding-left: 6px;
+}
+
+#container a {
+  text-decoration: none;
+  text-align: center;
+  text-decoration-color: black;
+}
+ion-title {
+  background-color:black;
+  padding: 20px;
+  margin: 0%;
+  padding-left: 10px;
+ 
+}
+:root{
+	--ion-text-color-rgb: 0,0,0;
+	
+}
